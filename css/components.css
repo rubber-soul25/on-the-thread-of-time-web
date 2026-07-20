@@ -213,29 +213,6 @@
 }
 
 /* ============================
-   RARITY TAGS (Items)
-   ============================ */
-.rarity-common {
-  border-color: var(--color-gold-dim);
-  color: var(--color-white);
-}
-
-.rarity-rare {
-  border-color: var(--color-sky-blue);
-  color: var(--color-sky-blue);
-}
-
-.rarity-legendary {
-  border-color: var(--color-gold);
-  color: var(--color-gold);
-}
-
-.rarity-cursed {
-  border-color: var(--color-crimson);
-  color: var(--color-crimson);
-}
-
-/* ============================
    GALLERY
    ============================ */
 .gallery-section {

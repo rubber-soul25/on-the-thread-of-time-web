@@ -29,26 +29,32 @@
   </header>
 
   <main class="page-container">
-    <h1>Characters</h1>
+    <h1>People Along the Jounrney</h1>
     <p style="margin: var(--space-sm) 0 var(--space-lg); opacity: 0.8;">
-      The people encountered along the thread.
+      The people encountered along the thread
     </p>
 
-    <div class="entry-grid">
+    <section class="gallery-section">
+      <h2>[Region Name]</h2>
+      <div class="entry-grid">
 
-      <a href="entry/lut.html" class="entry-card">
-        <div class="entry-card-portrait">[Portrait Placeholder]</div>
-        <div class="entry-card-body">
-          <div class="entry-card-name">Lut</div>
-          <div class="entry-card-title">[Role]</div>
-          <p class="entry-card-blurb">[Short one-line placeholder]</p>
-        </div>
-      </a>
+        <a href="entry/lut.html" class="entry-card">
+          <div class="entry-card-portrait">[Portrait Placeholder]</div>
+          <div class="entry-card-body">
+            <div class="entry-card-name">Lut</div>
+            <div class="entry-card-title">[Role]</div>
+            <p class="entry-card-blurb">[Short one-line placeholder]</p>
+          </div>
+        </a>
 
-      <!-- Duplicate the <a class="entry-card"> block above for each real
-           NPC. Do NOT duplicate the outer entry-grid div. -->
+        <!-- Duplicate the <a class="entry-card"> block for each NPC in this region -->
 
-    </div>
+      </div>
+    </section>
+
+    <!-- Duplicate the entire <section class="gallery-section"> block above
+         for each region, changing the <h2> to the region name -->
+
   </main>
 
   <footer class="site-footer">
