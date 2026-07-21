@@ -1,0 +1,42 @@
+[
+  {
+    "id": "uthred",
+    "name": "Uthred Dumnonia",
+    "epithet": "The Wither",
+    "class": "[Class]",
+    "faction": "[Faction]",
+    "portrait": "/assets/images/characters/uthred.png",
+    "description": "[Description text here]",
+    "history": "[History text here]"
+  },
+  {
+    "id": "iris",
+    "name": "Iris",
+    "epithet": "[Epithet]",
+    "class": "[Class]",
+    "faction": "[Faction]",
+    "portrait": "/assets/images/characters/iris.png",
+    "description": "[Description text here]",
+    "history": "[History text here]"
+  },
+  {
+    "id": "atrox",
+    "name": "Atrox",
+    "epithet": "[Epithet]",
+    "class": "[Class]",
+    "faction": "[Faction]",
+    "portrait": "/assets/images/characters/atrox.png",
+    "description": "[Description text here]",
+    "history": "[History text here]"
+  },
+  {
+    "id": "tyche",
+    "name": "Tyche",
+    "epithet": "[Epithet]",
+    "class": "[Class]",
+    "faction": "[Faction]",
+    "portrait": "/assets/images/characters/tyche.png",
+    "description": "[Description text here]",
+    "history": "[History text here]"
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "id": "example-item",
+    "name": "[Item Name]",
+    "type": "[Item Type — e.g. Sword, Relic]",
+    "owner": "[Current Owner]",
+    "portrait": "/assets/images/items/example-item.jpg",
+    "blurb": "[Short one-line blurb for the card]",
+    "description": "[Full description / appearance]",
+    "effects": "[Powers & Effects]"
+  }
+]
