@@ -1,0 +1,28 @@
+[
+  {
+    "id": "example-deity",
+    "name": "[Deity Name]",
+    "domain": "[Domain/Title — e.g. God of War]",
+    "alignment": "[Alignment/Nature]",
+    "worshipers": "[Worshipers]",
+    "category": "Triarchy",
+    "portrait": "/assets/images/supernatural/example-deity.jpg",
+    "blurb": "[Short one-line blurb for the card]",
+    "description": "[Full description]",
+    "worship": "[Tenets & Worship]",
+    "history": "[History / mythology]"
+  },
+    {
+    "id": "example-deity",
+    "name": "[Deity Name]",
+    "domain": "[Domain/Title — e.g. God of War]",
+    "alignment": "[Alignment/Nature]",
+    "worshipers": "[Worshipers]",
+    "category": "Aevum",
+    "portrait": "/assets/images/supernatural/example-deity.jpg",
+    "blurb": "[Short one-line blurb for the card]",
+    "description": "[Full description]",
+    "worship": "[Tenets & Worship]",
+    "history": "[History / mythology]"
+  }
+]
