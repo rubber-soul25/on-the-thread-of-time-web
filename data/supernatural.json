@@ -2,7 +2,7 @@
   {
     "id": "example-deity",
     "name": "[Deity Name]",
-    "domain": "[Domain/Title — e.g. God of War]",
+    "domain": "[Domain]",
     "alignment": "[Alignment/Nature]",
     "worshipers": "[Worshipers]",
     "category": "Triarchy",
@@ -15,7 +15,7 @@
     {
     "id": "example-deity",
     "name": "[Deity Name]",
-    "domain": "[Domain/Title — e.g. God of War]",
+    "domain": "[Domain/Title]",
     "alignment": "[Alignment/Nature]",
     "worshipers": "[Worshipers]",
     "category": "Aevum",

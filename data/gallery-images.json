@@ -1,0 +1,12 @@
+[
+  {
+    "category": "Fanart",
+    "image": "/assets/images/gallery/example-fanart.jpg",
+    "caption": "[Artist name / description]"
+  },
+  {
+    "category": "Battles",
+    "image": "/assets/images/gallery/example-battle.jpg",
+    "caption": "[Battle description / session date]"
+  }
+]

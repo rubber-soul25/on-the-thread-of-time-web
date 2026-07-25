@@ -1,0 +1,14 @@
+[
+  {
+    "id": "example-place",
+    "name": "[Place Name]",
+    "plane": "etiki",
+    "timeline": "lenara",
+    "type": "[Tags/Type]",
+    "ruledBy": "[Ruled By / Status]",
+    "portrait": "/assets/images/places/example-place.jpg",
+    "blurb": "[Short one-line blurb]",
+    "description": "[Full description]",
+    "history": "[History]"
+  }
+]

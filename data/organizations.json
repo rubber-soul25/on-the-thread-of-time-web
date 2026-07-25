@@ -2,13 +2,13 @@
   {
     "id": "example-org",
     "name": "[Organization Name]",
-    "type": "[Type — e.g. Knightly Order, Merchant Guild]",
-    "headquarters": "[Headquarters/Base]",
-    "leader": "[Leader/Ruler]",
+    "type": "[Type]",
+    "headquarters": "[Headquarters/Location]",
+    "leader": "[Leader]",
     "portrait": "/assets/images/organizations/example-org.jpg",
     "blurb": "[Short one-line blurb for the card]",
     "description": "[Full description]",
     "goals": "[Goals & Purpose]",
-    "notableMembers": "[Plain text list for now, e.g. Uthred Dumnonia, Iris]"
+    "notableMembers": "[Plain text list for now, e.g. Daryl, Yalta]"
   }
 ]

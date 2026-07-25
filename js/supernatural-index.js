@@ -1,5 +1,5 @@
 async function loadDeitiesGrid() {
-  const response = await fetch('/data/triarchy.json');
+  const response = await fetch('/data/supernatural.json');
   const deities = await response.json();
   const container = document.getElementById('deities-container');
 

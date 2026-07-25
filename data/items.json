@@ -8,5 +8,15 @@
     "blurb": "[Short one-line blurb for the card]",
     "description": "[Full description / appearance]",
     "effects": "[Powers & Effects]"
+  },
+  {
+    "id": "example-item",
+    "name": "[Item Name]",
+    "type": "[Type — e.g. Weapon, Artifact, Relic]",
+    "owner": "[Owner Name]",
+    "portrait": "/assets/images/items/example-item.jpg",
+    "blurb": "[Short one-line blurb for the card]",
+    "description": "[Full description / appearance]",
+    "effects": "[Powers & Effects]"
   }
 ]

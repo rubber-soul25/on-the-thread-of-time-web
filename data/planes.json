@@ -1,0 +1,47 @@
+[
+  {
+    "id": "etiki",
+    "lenaraName": "Etiki",
+    "lenaraDescription": "[Description of Etiki in Lenara]",
+    "lenaraImage": "/assets/images/planes/etiki-lenara.jpg",
+    "aranelName": "Etiki",
+    "aranelDescription": "[Description of Etiki in Aranel]",
+    "aranelImage": "/assets/images/planes/etiki-aranel.jpg"
+  },
+  {
+    "id": "aza",
+    "lenaraName": "Aza",
+    "lenaraDescription": "[Description of Aza in Lenara]",
+    "lenaraImage": "/assets/images/planes/aza-lenara.jpg",
+    "aranelName": "Aza",
+    "aranelDescription": "[Description of Aza in Aranel]",
+    "aranelImage": "/assets/images/planes/aza-aranel.jpg"
+  },
+  {
+    "id": "innia",
+    "lenaraName": "Innia",
+    "lenaraDescription": "[Description of Innia in Lenara]",
+    "lenaraImage": "/assets/images/planes/innia-lenara.jpg",
+    "aranelName": "Innia",
+    "aranelDescription": "[Description of Innia in Aranel]",
+    "aranelImage": "/assets/images/planes/innia-aranel.jpg"
+  },
+  {
+    "id": "Omen",
+    "lenaraName": "Omen",
+    "lenaraDescription": "[Description of Omen in Lenara]",
+    "lenaraImage": "/assets/images/planes/omen-lenara.jpg",
+    "aranelName": "Omen",
+    "aranelDescription": "[Description of Omen in Aranel]",
+    "aranelImage": "/assets/images/planes/omen-aranel.jpg"
+  },
+  {
+  "id": "uluru",
+  "lenaraName": "Uluru",
+  "lenaraDescription": "[Description of Uluru in the present]",
+  "lenaraImage": "/assets/images/planes/uluru-lenara.jpg",
+  "aranelName": "Uluru",
+  "aranelDescription": "[Description of Uluru in the post-apocalyptic future]",
+  "aranelImage": "/assets/images/planes/uluru-aranel.jpg"
+}
+]

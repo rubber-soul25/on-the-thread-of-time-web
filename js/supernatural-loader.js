@@ -7,7 +7,7 @@ async function loadDeityEntry() {
     return;
   }
 
-  const response = await fetch('/data/triarchy.json');
+  const response = await fetch('/data/supernatural.json');
   const deities = await response.json();
   const deity = deities.find(d => d.id === deityId);
 

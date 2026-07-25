@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Places — On the Thread of Time</title>
+  <title id="page-title">Plane — On the Thread of Time</title>
   <link rel="stylesheet" href="/css/base.css">
   <link rel="stylesheet" href="/css/layout.css">
   <link rel="stylesheet" href="/css/components.css">
@@ -13,20 +13,19 @@
   <div id="header-placeholder"></div>
 
   <main class="page-container">
-    <h1>The Planes</h1>
-    <p style="margin: var(--space-sm) 0 var(--space-md); opacity: 0.8;">
-      
-    </p>
+    <p><a href="../places.html" id="back-link">&larr; Back to Planes</a></p>
 
+    <h1 id="plane-name"></h1>
     <div class="timeline-switch" id="timeline-switch"></div>
+    <p style="margin: 0 0 var(--space-lg); opacity: 0.8;" id="plane-description"></p>
 
-    <div class="entry-grid" id="planes-grid">
-      <!-- Plane cards injected here by JS -->
+    <div class="entry-grid" id="places-grid">
+      <!-- Place cards injected here by JS -->
     </div>
   </main>
 
   <div id="footer-placeholder"></div>
   <script src="/js/include-partials.js"></script>
-  <script src="/js/places-index.js"></script>
+  <script src="/js/plane-loader.js"></script>
 </body>
 </html>
