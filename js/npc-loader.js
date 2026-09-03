@@ -21,7 +21,7 @@ async function loadNpcEntry() {
   document.getElementById('npc-portrait').alt = npc.name;
   document.getElementById('npc-name').textContent = npc.name;
   document.getElementById('npc-role').textContent = npc.role;
-  document.getElementById('npc-location').textContent = npc.location;
+  document.getElementById('npc-plane').textContent = npc.location;
   document.getElementById('npc-affiliation').textContent = npc.affiliation;
   document.getElementById('npc-description').textContent = npc.description;
 

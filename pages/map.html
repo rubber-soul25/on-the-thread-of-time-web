@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>World Map — On the Thread of Time</title>
+  <link rel="stylesheet" href="/css/base.css">
+  <link rel="stylesheet" href="/css/layout.css">
+  <link rel="stylesheet" href="/css/components.css">
+</head>
+<body>
+
+  <div id="header-placeholder"></div>
+
+  <main class="page-container">
+    <p><a href="places.html">&larr; Back to Places</a></p>
+    <h1>The World Map</h1>
+    <p style="margin: var(--space-sm) 0 var(--space-md); opacity: 0.8;">
+      The vast world of Lenara/Aranel.
+    </p>
+
+    <div class="map-viewer" id="map-viewer">
+      <img id="map-image" src="/assets/images/places/world-map-placeholder.jpg" alt="World Map">
+      <div class="map-controls">
+        <button id="zoom-in" title="Zoom in">+</button>
+        <button id="zoom-out" title="Zoom out">−</button>
+        <button id="zoom-reset" title="Reset view">⟲</button>
+      </div>
+    </div>
+    <p class="map-hint">Scroll to zoom · Click and drag to pan</p>
+
+  </main>
+
+  <div id="footer-placeholder"></div>
+  <script src="/js/include-partials.js"></script>
+  <script src="/js/map-viewer.js"></script>
+</body>
+</html>

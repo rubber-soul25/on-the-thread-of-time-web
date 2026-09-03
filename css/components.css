@@ -412,3 +412,98 @@
   opacity: 0.8;
   margin-top: 2px;
 }
+
+/*
+   PLANE FILTER FOR NPCs
+ */
+.plane-filter {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0;
+  border: var(--border-thin);
+  margin-bottom: var(--space-lg);
+  width: fit-content;
+}
+
+.plane-filter a {
+  padding: var(--space-xs) var(--space-md);
+  font-family: var(--font-heading);
+  font-size: 0.9rem;
+  letter-spacing: 0.03em;
+  color: var(--color-white);
+  opacity: 0.6;
+  border-right: var(--border-thin);
+  transition: opacity 0.25s ease, color 0.25s ease, background-color 0.25s ease;
+}
+
+.plane-filter a:last-child {
+  border-right: none;
+}
+
+.plane-filter a.active {
+  opacity: 1;
+  color: var(--color-gold);
+  background-color: var(--color-black-soft);
+}
+
+.plane-filter a:hover {
+  opacity: 1;
+}
+
+.map-viewer {
+  position: relative;
+  width: 100%;
+  height: 70vh;
+  border: var(--border-thin);
+  background-color: var(--color-black-soft);
+  overflow: hidden;
+  cursor: grab;
+}
+
+.map-viewer.dragging {
+  cursor: grabbing;
+}
+
+.map-viewer img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  max-width: none;
+  transform-origin: 0 0;
+  user-select: none;
+  -webkit-user-drag: none;
+}
+
+.map-controls {
+  position: absolute;
+  bottom: var(--space-sm);
+  right: var(--space-sm);
+  display: flex;
+  gap: var(--space-xs);
+  z-index: 10;
+}
+
+.map-controls button {
+  width: 36px;
+  height: 36px;
+  background-color: var(--color-black);
+  border: var(--border-thin);
+  color: var(--color-gold);
+  font-family: var(--font-heading);
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: border-color 0.25s ease, color 0.25s ease;
+}
+
+.map-controls button:hover {
+  border-color: var(--color-gold);
+  color: var(--color-white);
+}
+
+.map-hint {
+  text-align: center;
+  font-size: 0.85rem;
+  color: var(--color-gold-dim);
+  font-style: italic;
+  margin-top: var(--space-sm);
+}

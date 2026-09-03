@@ -25,6 +25,7 @@ async function loadPlaceEntry() {
   document.getElementById('place-ruled-by').textContent = place.ruledBy;
   document.getElementById('place-description').textContent = place.description;
   document.getElementById('place-history').textContent = place.history;
+  document.getElementById('npc-timeline').textContent = npc.timeline === 'lenara' ? 'Lenara' : 'Aranel';
 }
 
 loadPlaceEntry();
