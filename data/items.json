@@ -5,7 +5,7 @@
     "type": "Weapon",
     "owner": "Uthred",
     "portrait": "/assets/images/items/grandqueue.png",
-    "blurb": "[Short one-line blurb for the card]",
+    "blurb": "[Short one-line blurb]",
     "description": "[Full description / appearance]",
     "effects": "[Powers & Effects]"
   },
@@ -15,7 +15,7 @@
     "type": "[Type — e.g. Weapon, Artifact, Relic]",
     "owner": "[Owner Name]",
     "portrait": "/assets/images/items/example-item.jpg",
-    "blurb": "[Short one-line blurb for the card]",
+    "blurb": "[Short one-line blurb]",
     "description": "[Full description / appearance]",
     "effects": "[Powers & Effects]"
   }

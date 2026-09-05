@@ -38,10 +38,10 @@
   {
   "id": "uluru",
   "lenaraName": "Uluru",
-  "lenaraDescription": "[Description of Uluru in the present]",
+  "lenaraDescription": "[Description of Uluru]",
   "lenaraImage": "/assets/images/planes/uluru-lenara.jpg",
   "aranelName": "Uluru",
-  "aranelDescription": "[Description of Uluru in the post-apocalyptic future]",
+  "aranelDescription": "[Description of Uluru]",
   "aranelImage": "/assets/images/planes/uluru-aranel.jpg"
 }
 ]

@@ -6,9 +6,9 @@
     "headquarters": "[Headquarters/Location]",
     "leader": "[Leader]",
     "portrait": "/assets/images/organizations/example-org.jpg",
-    "blurb": "[Short one-line blurb for the card]",
+    "blurb": "[Short one-line blurb ]",
     "description": "[Full description]",
     "goals": "[Goals & Purpose]",
-    "notableMembers": "[Plain text list for now, e.g. Daryl, Yalta]"
+    "notableMembers": "[e.g. Daryl, Yalta]"
   }
 ]

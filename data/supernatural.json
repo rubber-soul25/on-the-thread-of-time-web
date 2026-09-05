@@ -7,7 +7,7 @@
     "worshipers": "Milarians",
     "category": "Triarchy",
     "portrait": "/assets/images/supernatural/mila.jpg",
-    "blurb": "[Short one-line blurb for the card]",
+    "blurb": "[Short one-line blurb]",
     "description": "[Full description]",
     "worship": "[Tenets & Worship]",
     "history": "[History / mythology]"
@@ -20,7 +20,7 @@
     "worshipers": "[Worshipers]",
     "category": "Aevum",
     "portrait": "/assets/images/supernatural/example-deity.jpg",
-    "blurb": "[Short one-line blurb for the card]",
+    "blurb": "[Short one-line blurb]",
     "description": "[Full description]",
     "worship": "[Tenets & Worship]",
     "history": "[History / mythology]"
