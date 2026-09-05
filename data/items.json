@@ -4,7 +4,7 @@
     "name": "Grand'Queue",
     "type": "Weapon",
     "owner": "Uthred",
-    "portrait": "/assets/images/items/example-item.jpg",
+    "portrait": "/assets/images/items/grandqueue.png",
     "blurb": "[Short one-line blurb for the card]",
     "description": "[Full description / appearance]",
     "effects": "[Powers & Effects]"

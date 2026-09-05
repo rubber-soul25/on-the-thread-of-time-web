@@ -45,6 +45,14 @@ html {
 
 body {
   background-color: var(--color-black);
+/* fallback if image fails to load */
+  background-image:
+    linear-gradient(rgba(10, 9, 8, 0.78), rgba(10, 9, 8, 0.78)),
+    url('/assets/images/backgrounds/site-background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
   color: var(--color-white);
   font-family: var(--font-body);
   font-size: 1.125rem;

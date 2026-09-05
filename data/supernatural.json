@@ -1,12 +1,12 @@
 [
   {
-    "id": "example-deity",
-    "name": "[Deity Name]",
-    "domain": "[Domain]",
+    "id": "mila",
+    "name": "Mother Mila",
+    "domain": "Goddess of Life and Harvest",
     "alignment": "[Alignment/Nature]",
-    "worshipers": "[Worshipers]",
+    "worshipers": "Milarians",
     "category": "Triarchy",
-    "portrait": "/assets/images/supernatural/example-deity.jpg",
+    "portrait": "/assets/images/supernatural/mila.jpg",
     "blurb": "[Short one-line blurb for the card]",
     "description": "[Full description]",
     "worship": "[Tenets & Worship]",

@@ -17,7 +17,8 @@ function initMapViewer() {
 
   function zoom(delta, centerX, centerY) {
     const newScale = Math.min(maxScale, Math.max(minScale, scale + delta));
-    // Adjust position so zoom feels centered on the cursor
+    
+    // Adjust position
     const scaleRatio = newScale / scale;
     posX = centerX - (centerX - posX) * scaleRatio;
     posY = centerY - (centerY - posY) * scaleRatio;
@@ -35,7 +36,7 @@ function initMapViewer() {
     zoom(delta, cursorX, cursorY);
   });
 
-  // Click and drag to pan
+  // Click and Drag
   viewer.addEventListener('mousedown', (e) => {
     isDragging = true;
     viewer.classList.add('dragging');
@@ -55,7 +56,7 @@ function initMapViewer() {
     viewer.classList.remove('dragging');
   });
 
-  // Button controls
+  // Controls
   document.getElementById('zoom-in').addEventListener('click', () => {
     zoom(0.3, viewer.clientWidth / 2, viewer.clientHeight / 2);
   });
